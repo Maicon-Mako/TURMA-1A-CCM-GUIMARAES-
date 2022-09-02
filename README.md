@@ -1,2 +1,2 @@
 # TURMA-1A-CCM-GUIMARAES-
-criamos nosso primeiro repositorio
+criamos nosso primeiro repositório
